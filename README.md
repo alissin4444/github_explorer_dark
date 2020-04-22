@@ -6,7 +6,8 @@ Essa aplicação foi desenvolvida durante a primeira aula de reactjs da terceira
 Posteriormente eu decidi alterar sua paleta de cores e adicionar algumas modificações, como listagem de todos os repositórios de um usuário e infinityscroll. Infelizmente não foi possível adicionar as novas funcionalidades devido às demandas diárias e os próximos desafios que serão realizados ao longo do bootcamp.
 
 # IMAGENS
-<img src="" width="800">
+<img src="https://i.imgur.com/MqXmsFR.png" width="800">
+<img src="https://i.imgur.com/Pw7AuFi.png" width="800">
 
 ## INSTRUÇÕES PARA UTILIZAÇÃO
 
